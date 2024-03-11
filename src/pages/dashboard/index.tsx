@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const dashboard = () => {
+export default function Home() {
   return (
-    <div>dashboard</div>
+    <div>Home</div>
   )
 }

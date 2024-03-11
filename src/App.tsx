@@ -1,8 +1,6 @@
-import { AppRouter } from "./routes/AppRouter";
-
 
 export default function App() {
   return (
-    <AppRouter />
+   <h1>Ola miindo</h1>
   )
 }
