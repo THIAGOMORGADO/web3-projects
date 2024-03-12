@@ -3,6 +3,6 @@ import React from 'react'
 
 export default function Home() {
   return (
-   <Button> Ola Mundo </Button>
+   <Button variant='contained' color='primary'> Ola Mundo </Button>
   )
 }
